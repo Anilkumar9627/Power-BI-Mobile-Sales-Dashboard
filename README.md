@@ -1,4 +1,4 @@
-# Power-BI-Mobile-Salse-Dashboard
+# Power-BI-Mobile-Sales-Dashboard
 Interactive Power BI sales analytics dashboard tracking mobile device sales, regional performance across Indian cities, payment methods, customer ratings, and monthly/day-wise trends.
 <img width="896" height="509" alt="Screenshot 2026-11-19 194439" src="https://github.com/user-attachments/assets/64ac2872-a747-4ff0-b743-c5af0ee6bb68" />
 # 📱 Mobile & Smartphone Sales Analytics Dashboard (Power BI)
